@@ -17,3 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-HTML" height="" width="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Rafa-HTML" height="" width="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
+<br>
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaofelipe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
