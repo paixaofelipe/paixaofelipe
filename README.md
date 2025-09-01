@@ -7,11 +7,10 @@
 paixaofelipe/paixaofelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Olá, eu sou Felipe Paixão! Seja bem-vindo :)
+## Oi, eu sou Felipe! :)
 💻 IT Professional  
-🎸 Music Lover/Maker  
-🌎 Sporadic Traveler  
-☕ Coffee Drinker  
+🎸 | 🌎 | ☕
+
 
 <div>
   <img align="center" alt="Rafa-HTML" height="" width="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
